@@ -1,1 +1,35 @@
+HTML Basic
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Web Page</title> <!-- Eita Website er name zeta diye searche kora hoy seta.. -->
+</head>
 
+
+<!-- HTML Heading -->
+<!-- Eigulo heading tag, important kono kajer jonno eigulo use hoy -->
+<h1> This Is Heading Tag</h1> <!-- Most important -->  <!-- -->
+<h2> This Is Heading Tag </h2>
+<h3> This Is Heading Tag </h3>
+<h4> This Is Heading Tag</h4>
+<h5> This Is Heading Tag </h5>
+<h6> This Is Heading Tag </h6>
+<body>
+   
+    
+    <!-- HTML Paragraphs -->
+   <p> This Is a paragraph This Is a paragraph This Is a paragraph This Is a paragraph This Is a paragraph This Is a paragraph This Is a paragraph This Is a paragraphThis Is a paragraph </p>
+   
+   
+   <!-- HTML Links -->
+   <!-- HTML Links er maddome kono website e onno ekti Website link kora zay -->
+   <a href="https://www.w3schools.com/html/html_basic.asp"> w3schools HTML Tutorial </a> <!-- --> <!-- -->
+
+   <!-- HTML Image -->
+   <img src="image1.jpg" alt="Laptop"  width="200" height="200" >
+
+</body>
+</html>
