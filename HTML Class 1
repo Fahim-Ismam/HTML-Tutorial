@@ -30,6 +30,8 @@ HTML Basic
 
    <!-- HTML Image -->
    <img src="image1.jpg" alt="Laptop"  width="200" height="200" >
-
+<!-- br Tag -->
+   <!-- br Tag er maddhome ei paragraph ta ke alada alada kore likha zay zake line brack bole -->
+   <p> This Is a paragraph This Is a paragraph </p> <br/>This Is a paragraph This Is a paragraph This Is a paragraph This Is a paragraph <br/> This Is a paragraph This Is a paragraphThis Is a paragraph 
 </body>
 </html>
