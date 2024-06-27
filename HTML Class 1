@@ -33,5 +33,77 @@ HTML Basic
 <!-- br Tag -->
    <!-- br Tag er maddhome ei paragraph ta ke alada alada kore likha zay zake line brack bole -->
    <p> This Is a paragraph This Is a paragraph </p> <br/>This Is a paragraph This Is a paragraph This Is a paragraph This Is a paragraph <br/> This Is a paragraph This Is a paragraphThis Is a paragraph 
-</body>
+  <!--CLASS 2 --> 
+   <!--HTML Formatting Elements -->
+   <b>This is bold tag</b> <br/>
+   <i> This is Italic tag</i><br/>
+   <u> This is under line tag</u>
+     
+   <!-- nicher PARAGRAPH e BOLD, IRALIC, UNDERLINE kora hoyeche -->
+
+   <p> Paragraphs are the <b>building blocks of papers.</b> Many students define paragraphs in <i>terms of length:</i> <u>a paragraph is a group of at least five sentences,</u> a paragraph is half a page long, etc. In reality, though, the <b>unity and coherence </b> of ideas among sentences is what <i><u> constitutes a paragraph.</u></i></p>
+
+
+   <!--HTML big or small tag -->
+
+   <big> This Tag Show Big Text</big> <br/> <!-- Etir maddhome text ke boro kora zay--> <!-- -->
+   <small> This tag shows small</small> <!-- Etir maddhome text ke choto kora zay-->
+
+   <!--HTML hr( Horizontal Ruler) tag -->
+   <!-- Etir maddhome Web page er moddhe LINE aakaa zay.  -->
+   <!-- nicher heading tag e hr (<hr/> tag use kore er kaj dekhano holo)-->
+    <h1> This Is Heading Tag</h1> <hr/>   <!-- -->
+    <h2> This Is Heading Tag </h2> <hr/>
+    <h3> This Is Heading Tag </h3> <hr/> 
+    <h4> This Is Heading Tag</h4> <hr/>
+    <h5> This Is Heading Tag </h5> <hr/>
+    <h6> This Is Heading Tag </h6> <hr/>
+ <!-- hr tag use korar karone sob heading er niche ekti LINE hoye geche.  -->
+ 
+
+
+
+ <!-- Subscript & Superscript Tag -->
+
+<!--Subscript Tag -->
+ <!-- kono normal text er niche text/number likhar jonno Subscript {<sub><sub/>} use kora hoy -->
+<!-- EXAMPLE-->
+    <p> H<sub>2</sub>O</p><br/>  <!-- Subsript tag always <p><p/> tag er vetore likhte hoy-->
+    <p> CO<sub>2</sub></p> <br/>
+    <p> N<sub>6</sub>H<sub>12</sub>O<sub>6</sub></p>   <!-- -->
+
+
+<!--Superscript Tag-->
+<!-- kono normal text er upore text/number likhar jonno Superscript {<sup><sup/>} use kora hoy -->
+    <!-- EXAMPLE-->
+    <p> 3<sup>2</sup>=9</p><br/>
+    <p> X<sup>2</sup>+ Y<sup>2</sup>=(X+Y)<sup>2</sup>- 2XY </p>
+  
+  
+    <!--HTML Pre Tag-->
+    <!--ei tag er maddome onek boro spacr deya zay -->
+    <!-- Example -->
+    <pre> Paragraphs are        the building blocks of papers. Many students define paragraphs in terms of length,         a paragraph is a group of at least five sentences, a paragraph is half a page long, etc. In reality, though, the unity and coherence  of ideas among sentences is what constitutes a paragraph. </pre> <!-- -->
+    <!--eikhane {<P><P/>} tag er poriborte {<pre></pre>}tag use kora hoy-->
+
+    <!--Page Layout Techniques-->
+    <!-- 1. NAVIGATION BAR/ TOP BAR
+         2. HEDDER/ <hedder>
+         3.MAIN/ <main >
+         4. FOOTER /<footer>     --><!-- -->
+
+            <!--Inside Main Tag -->
+            <!--
+                (i)Section Tag <section>
+                Ans: Zekhane Navigation Bar gulo likha hoi seti hocche section tag.
+                (ii) Artical Tag <artical>
+                Ans: zekono kichu likhar jonno Artical Tag Use kora hoy, zemon MY Story, About me etc
+                (iii) Aside Tag <aside>
+                Ans: Website er vetore kono advertisement deyar jonno eti use hoy. -->
+ <!--Example  -->
+
+    <header> <H3> MY PROTFOLIO</H3></header>
+    <main> <section> <pre><b><u>About Me</u>      <u>Location</u>     <u>Experience</b></u> </pre> </section>
+    <article>My Story: Hello I am little front end developer. I am From Bangladesh. I am a Studet, My major is CSE( Computer Science & Engineering. My institute in Shyamoli Ideal Polytechnic Institute </article>
+    <aside> This Is Advertisement,</aside> </main></body>
 </html>
